@@ -1,5 +1,12 @@
 Vaya
+<<<<<<< HEAD
 lines
 lean
+=======
+linea 
+
+
+
+>>>>>>> c66d5ae7ae63150d30996fbef3059de985cb2290
 
 y si tambien locañ
